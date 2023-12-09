@@ -1,0 +1,97 @@
+.container{
+    width: 100%;
+    height: 100vh;
+}
+.container img{
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+
+}
+.logo{
+    width: 30px;
+    position: absolute;
+    height: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.head a{
+    list-style: none;
+    text-decoration: none;
+    color: darkmagenta;
+}
+
+.head a:hover{
+    transform: scale(1.1);
+    color: red;
+}
+.h{
+    font-size: 20px;
+    list-style: none;
+    margin-left: 60%;
+    margin-top: 40px;
+    position: absolute;
+}
+
+.a{
+    font-size: 20px;
+    list-style: none;
+    margin-left: 67%;
+    margin-top: 40px;
+    position: absolute;
+}
+
+.s{
+    font-size: 20px;
+    list-style: none;
+    margin-left: 75%;
+    margin-top: 40px;
+    position: absolute;
+}
+
+.c{
+    font-size: 20px;
+    list-style: none;
+    margin-left: 83%;
+    margin-top: 40px;
+    position: absolute;
+}
+
+.content h1{
+    color: blue; 
+    font-size: 35px;
+    top: 32%;
+    position: absolute;
+    margin-left: 32%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.content p{
+    color: darkgreen ; 
+    font-size: 27px;
+    top: 38%;
+    position: absolute;
+    margin-left: 25%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.btn{
+    width: 50px;
+    height: 30px;
+    position: absolute;
+    margin-top: 26%;
+    margin-left: 38%;
+}
+
+.btn button{
+    width: 120px;
+    height: 30px;
+    border: none;
+    border-radius: 25px;
+    background-color: greenyellow;
+    color: red;
+    font-size: 18px;
+}
+
+.btn:hover{
+    transform: scale(1.1);
+}
